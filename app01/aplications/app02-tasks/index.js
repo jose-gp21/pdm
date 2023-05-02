@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-export default function tasks() {
+export default function Tasks() {
   return ( 
     <View>
-      <Text>Tasks</Text>
+      <Text>Tasks here</Text>
     </View>
   );
 }
